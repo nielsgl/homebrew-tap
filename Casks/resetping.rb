@@ -1,8 +1,8 @@
 cask "resetping" do
-  version "0.1.0"
-  sha256 "ba8b2b563dda36c5b8b82192ba747bf668a8e7924d43c524bdd3a35849d253e0"
+  version "0.1.1"
+  sha256 "ac3a6c7537b4ba3197df381a89f43f4d84d4e9b9516e984ced923bc29d263126"
 
-  url "https://github.com/nielsgl/resetping/releases/download/v0.1.0/ResetPing_0.1.0_aarch64.dmg",
+  url "https://github.com/nielsgl/resetping/releases/download/v0.1.1/ResetPing_0.1.1_aarch64.dmg",
       verified: "github.com/nielsgl/resetping/"
   name "ResetPing"
   desc "Tray notifier for Codex rate limit reset status"
